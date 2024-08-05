@@ -56,3 +56,12 @@ www@2787e64996c8:/var/www$ ./bin/console debug:route
   api_tickets_delete          DELETE      ANY      ANY    /api/tickets/{id}
  --------------------------- ----------- -------- ------ -----------------------------
 ```
+
+## Screenshots
+
+<img width="1616" alt="Screenshot 2024-08-05 at 09 33 35" src="https://github.com/user-attachments/assets/4623bdd7-59d2-40c2-b7b1-7307910d3111">
+<img width="999" alt="Screenshot 2024-08-05 at 09 33 39" src="https://github.com/user-attachments/assets/d5abd2f2-1ae8-4e75-9aa8-eaf3c1164efc">
+<img width="1690" alt="Screenshot 2024-08-05 at 09 33 42" src="https://github.com/user-attachments/assets/89320b52-44ff-4a81-90fe-93592175ae08">
+<img width="643" alt="Screenshot 2024-08-05 at 09 33 50" src="https://github.com/user-attachments/assets/0d70c705-c6fd-4702-acd0-8cc63c06c587">
+<img width="1705" alt="Screenshot 2024-08-05 at 09 33 59" src="https://github.com/user-attachments/assets/852efcd9-6c9a-4685-8076-9e1e671a4068">
+<img width="662" alt="Screenshot 2024-08-05 at 09 36 38" src="https://github.com/user-attachments/assets/15e43513-dcfa-4c28-9394-83881e4d493b">
